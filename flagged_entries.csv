@@ -1,0 +1,104 @@
+je_id,posted_date,effective_date,period,source,debit_account,credit_account,amount,preparer,approver,vendor,invoice_no,description,flags,flag_count
+JE-00310,2025-01-25,2025-01-23,2025-01,Manual,5500,1400,89000.0,dlee,mgr_ortiz,,,Amortize prepaid,Round-dollar manual entries; Weekend or holiday postings,2
+JE-02525,2025-07-05,2025-07-04,2025-07,Manual,5400,2100,47000.0,cmorales,mgr_ortiz,,,Month-end accrual,Round-dollar manual entries; Weekend or holiday postings,2
+JE-04375,2025-11-10,2025-11-09,2025-11,Manual,5500,2100,9930.65,tnguyen,tnguyen,,,Month-end accrual,Just below approval limit; Self-approved entries,2
+JE-03610,2025-09-17,2025-09-14,2025-09,Manual,1400,1010,9797.96,tnguyen,tnguyen,,,Prepay annual contract,Just below approval limit; Self-approved entries,2
+JE-04635,2025-11-28,2025-11-28,2025-11,Manual,1400,1010,9600.15,tnguyen,tnguyen,,,Prepay annual contract,Just below approval limit; Self-approved entries,2
+JE-04636,2025-11-28,2025-11-26,2025-11,Manual,1400,1010,90000.0,rjones,mgr_ortiz,,,Prepay annual contract,Round-dollar manual entries,1
+JE-04872,2025-12-15,2025-12-13,2025-12,Manual,5500,2100,81000.0,dlee,mgr_ortiz,,,Month-end accrual,Round-dollar manual entries,1
+JE-03873,2025-10-06,2025-08-21,2025-08,Manual,5200,2100,79168.45,rjones,controller_walsh,,,Month-end accrual,Posted after period close,1
+JE-02691,2025-07-16,2025-07-13,2025-07,Manual,5500,2100,74000.0,akim,mgr_chen,,,Month-end accrual,Round-dollar manual entries,1
+JE-02874,2025-07-28,2025-07-27,2025-07,Manual,1400,1010,74000.0,akim,mgr_chen,,,Prepay annual contract,Round-dollar manual entries,1
+JE-04850,2025-12-12,2025-12-11,2025-12,Manual,5400,2100,74000.0,cmorales,mgr_chen,,,Month-end accrual,Round-dollar manual entries,1
+JE-01739,2025-05-05,2025-05-05,2025-05,AP,5200,2000,73100.42,SYSTEM,SYSTEM,Redwood Consulting,INV-1380637,Vendor invoice,Exact duplicate invoices,1
+JE-04376,2025-11-10,2025-11-07,2025-11,Manual,4000,1010,71435.6,rjones,mgr_ortiz,,,Revenue adjustment,"Revenue debited, cash credited",1
+JE-03740,2025-09-25,2025-09-25,2025-09,Manual,1400,1010,67000.0,bpatel,controller_walsh,,,Prepay annual contract,Round-dollar manual entries,1
+JE-02115,2025-06-02,2025-06-02,2025-06,AP,5400,2000,60388.74,SYSTEM,SYSTEM,Beacon Insurance Brokers,INV-2126011A,Vendor invoice,Near-duplicate invoices,1
+JE-00327,2025-01-27,2025-01-27,2025-01,AP,5400,2000,55207.59,SYSTEM,SYSTEM,Monarch Furniture,INV-2623009A,Vendor invoice,Near-duplicate invoices,1
+JE-00464,2025-02-05,2025-02-03,2025-02,Manual,5200,2100,54000.0,rjones,mgr_chen,,,Month-end accrual,Round-dollar manual entries,1
+JE-00618,2025-02-14,2025-02-13,2025-02,Manual,5300,1400,54000.0,bpatel,mgr_chen,,,Amortize prepaid,Round-dollar manual entries,1
+JE-00422,2025-02-03,2025-02-03,2025-02,AP,5400,2000,51208.94,SYSTEM,SYSTEM,Nimbus Cloud Hosting,INV-2754215,Vendor invoice,Exact duplicate invoices,1
+JE-00776,2025-02-27,2025-02-27,2025-02,Manual,5200,1400,48000.0,bpatel,controller_walsh,,,Amortize prepaid,Round-dollar manual entries,1
+JE-03549,2025-09-14,2025-09-11,2025-09,Manual,1400,1010,47545.86,dlee,mgr_ortiz,,,Prepay annual contract,Weekend or holiday postings,1
+JE-03163,2025-08-18,2025-08-16,2025-08,Manual,5500,1400,47000.0,rjones,mgr_ortiz,,,Amortize prepaid,Round-dollar manual entries,1
+JE-03653,2025-09-19,2025-09-19,2025-09,Manual,1400,1010,43000.0,akim,mgr_ortiz,,,Prepay annual contract,Round-dollar manual entries,1
+JE-01960,2025-05-21,2025-05-18,2025-05,Manual,5400,2100,37000.0,rjones,mgr_chen,,,Month-end accrual,Round-dollar manual entries,1
+JE-03209,2025-08-20,2025-08-19,2025-08,Manual,5200,1400,36000.0,tnguyen,mgr_chen,,,Amortize prepaid,Round-dollar manual entries,1
+JE-01220,2025-03-30,2025-03-28,2025-03,Manual,1400,1010,35854.02,akim,mgr_ortiz,,,Prepay annual contract,Weekend or holiday postings,1
+JE-04137,2025-10-22,2025-10-20,2025-10,Manual,5300,1400,35000.0,akim,controller_walsh,,,Amortize prepaid,Round-dollar manual entries,1
+JE-02981,2025-08-05,2025-08-05,2025-08,AP,5400,2000,33327.93,SYSTEM,SYSTEM,Orchard Pharma Wholesale,INV-1950144,Vendor invoice,Exact duplicate invoices,1
+JE-02740,2025-07-20,2025-07-17,2025-07,Manual,5200,1400,33184.6,dlee,mgr_chen,,,Amortize prepaid,Weekend or holiday postings,1
+JE-01740,2025-05-05,2025-05-03,2025-05,Manual,5400,2100,32000.0,cmorales,mgr_chen,,,Month-end accrual,Round-dollar manual entries,1
+JE-00135,2025-01-11,2025-01-09,2025-01,Manual,1400,1010,30868.25,dlee,mgr_ortiz,,,Prepay annual contract,Weekend or holiday postings,1
+JE-01315,2025-04-06,2025-04-04,2025-04,Manual,5400,1400,29004.35,cmorales,controller_walsh,,,Amortize prepaid,Weekend or holiday postings,1
+JE-02131,2025-06-03,2025-05-31,2025-05,Manual,5500,1400,28000.0,dlee,controller_walsh,,,Amortize prepaid,Round-dollar manual entries,1
+JE-02637,2025-07-11,2025-07-10,2025-07,Manual,1400,1010,28000.0,rjones,mgr_ortiz,,,Prepay annual contract,Round-dollar manual entries,1
+JE-00424,2025-02-03,2025-02-01,2025-02,Manual,1400,1010,25000.0,cmorales,controller_walsh,,,Prepay annual contract,Round-dollar manual entries,1
+JE-02925,2025-07-31,2025-07-28,2025-07,Manual,4000,1010,23147.37,bpatel,controller_walsh,,,Revenue adjustment,"Revenue debited, cash credited",1
+JE-01132,2025-03-24,2025-03-21,2025-03,Manual,5200,2100,18000.0,tnguyen,mgr_ortiz,,,Month-end accrual,Round-dollar manual entries,1
+JE-00696,2025-02-21,2025-02-21,2025-02,AP,5200,2000,15035.68,SYSTEM,SYSTEM,Evergreen Utilities,INV-1129637,Vendor invoice,Exact duplicate invoices,1
+JE-00463,2025-02-05,2025-02-02,2025-02,Manual,5200,2100,14000.0,rjones,controller_walsh,,,Month-end accrual,Round-dollar manual entries,1
+JE-04267,2025-10-31,2025-10-31,2025-10,AP,5400,2000,13605.97,SYSTEM,SYSTEM,Apex Medical Supply,INV-0155050,Vendor invoice,Exact duplicate invoices,1
+JE-00976,2025-03-12,2025-03-11,2025-03,Manual,4000,1010,12928.36,dlee,controller_walsh,,,Revenue adjustment,"Revenue debited, cash credited",1
+JE-02116,2025-06-02,2025-06-01,2025-06,Manual,5200,2100,9970.7,tnguyen,mgr_ortiz,,,Month-end accrual,Just below approval limit,1
+JE-01861,2025-05-14,2025-05-13,2025-05,Manual,5500,2100,9930.13,tnguyen,controller_walsh,,,Month-end accrual,Just below approval limit,1
+JE-02945,2025-08-01,2025-07-29,2025-07,Manual,1400,1010,9922.74,tnguyen,controller_walsh,,,Prepay annual contract,Just below approval limit,1
+JE-00305,2025-01-24,2025-01-24,2025-01,Manual,5400,2100,9893.58,bpatel,mgr_ortiz,,,Month-end accrual,Just below approval limit,1
+JE-02211,2025-06-09,2025-06-09,2025-06,Manual,1400,1010,9862.42,tnguyen,controller_walsh,,,Prepay annual contract,Just below approval limit,1
+JE-01737,2025-05-05,2025-05-03,2025-05,Manual,5400,1400,9857.36,rjones,mgr_chen,,,Amortize prepaid,Just below approval limit,1
+JE-04248,2025-10-30,2025-10-29,2025-10,Manual,1400,1010,9826.61,tnguyen,mgr_chen,,,Prepay annual contract,Just below approval limit,1
+JE-03785,2025-09-29,2025-09-28,2025-09,Manual,1400,1010,9801.63,tnguyen,mgr_chen,,,Prepay annual contract,Just below approval limit,1
+JE-01753,2025-05-06,2025-05-05,2025-05,Manual,5200,1400,9759.8,dlee,mgr_chen,,,Amortize prepaid,Just below approval limit,1
+JE-04050,2025-10-16,2025-10-16,2025-10,Manual,5300,2100,9730.88,tnguyen,mgr_chen,,,Month-end accrual,Just below approval limit,1
+JE-04169,2025-10-24,2025-10-22,2025-10,Manual,5300,1400,9720.9,tnguyen,mgr_ortiz,,,Amortize prepaid,Just below approval limit,1
+JE-01152,2025-03-25,2025-03-22,2025-03,Manual,5500,1400,9689.09,tnguyen,controller_walsh,,,Amortize prepaid,Just below approval limit,1
+JE-00272,2025-01-22,2025-01-21,2025-01,Manual,5300,2100,9659.22,tnguyen,controller_walsh,,,Month-end accrual,Just below approval limit,1
+JE-02155,2025-06-04,2025-06-04,2025-06,Manual,5500,1400,9645.98,tnguyen,controller_walsh,,,Amortize prepaid,Just below approval limit,1
+JE-04966,2025-12-22,2025-12-21,2025-12,Manual,5200,2100,9636.48,tnguyen,mgr_ortiz,,,Month-end accrual,Just below approval limit,1
+JE-00020,2025-01-02,2025-01-02,2025-01,Manual,1400,1010,9630.79,tnguyen,controller_walsh,,,Prepay annual contract,Just below approval limit,1
+JE-04097,2025-10-20,2025-10-17,2025-10,Manual,5400,2100,9616.59,tnguyen,mgr_chen,,,Month-end accrual,Just below approval limit,1
+JE-02621,2025-07-10,2025-07-08,2025-07,Manual,5500,2100,9574.52,tnguyen,mgr_chen,,,Month-end accrual,Just below approval limit,1
+JE-01616,2025-04-25,2025-04-25,2025-04,Manual,1400,1010,9565.14,tnguyen,controller_walsh,,,Prepay annual contract,Just below approval limit,1
+JE-04153,2025-10-23,2025-10-21,2025-10,Manual,1400,1010,9548.79,tnguyen,mgr_chen,,,Prepay annual contract,Just below approval limit,1
+JE-03462,2025-09-08,2025-09-06,2025-09,Manual,1400,1010,9535.23,tnguyen,mgr_ortiz,,,Prepay annual contract,Just below approval limit,1
+JE-02828,2025-07-24,2025-07-23,2025-07,Manual,5400,2100,9511.9,dlee,mgr_chen,,,Month-end accrual,Just below approval limit,1
+JE-00697,2025-02-21,2025-02-18,2025-02,Manual,1400,1010,9000.0,bpatel,mgr_ortiz,,,Prepay annual contract,Round-dollar manual entries,1
+JE-02488,2025-07-01,2025-06-30,2025-06,Manual,5400,1400,9000.0,bpatel,controller_walsh,,,Amortize prepaid,Round-dollar manual entries,1
+JE-00826,2025-03-03,2025-03-03,2025-03,AP,5200,2000,8832.22,SYSTEM,SYSTEM,Atlas Courier,INV-1272919A,Vendor invoice,Near-duplicate invoices,1
+JE-04070,2025-10-18,2025-10-15,2025-10,Manual,5400,2100,7795.15,dlee,mgr_ortiz,,,Month-end accrual,Weekend or holiday postings,1
+JE-03054,2025-08-11,2025-08-11,2025-08,AP,5200,2000,7386.65,SYSTEM,SYSTEM,Ironbridge Maintenance,INV-1584397A,Vendor invoice,Near-duplicate invoices,1
+JE-01656,2025-04-29,2025-04-28,2025-04,Manual,5300,2100,7032.57,rjones,rjones,,,Month-end accrual,Self-approved entries,1
+JE-03371,2025-09-02,2025-09-02,2025-09,AP,5300,2000,6481.71,SYSTEM,SYSTEM,Falcon Travel Group,INV-2276707,Vendor invoice,Exact duplicate invoices,1
+JE-00799,2025-03-01,2025-03-01,2025-03,Manual,5400,2100,6087.02,dlee,controller_walsh,,,Month-end accrual,Weekend or holiday postings,1
+JE-00567,2025-02-12,2025-02-09,2025-02,Manual,1400,1010,6000.0,rjones,mgr_chen,,,Prepay annual contract,Round-dollar manual entries,1
+JE-02656,2025-07-14,2025-05-02,2025-05,Manual,5300,1400,5937.13,cmorales,mgr_ortiz,,,Amortize prepaid,Posted after period close,1
+JE-02281,2025-06-14,2025-06-11,2025-06,Manual,1400,1010,5491.7,dlee,mgr_ortiz,,,Prepay annual contract,Weekend or holiday postings,1
+JE-02526,2025-07-05,2025-07-05,2025-07,Manual,5200,2100,5394.63,dlee,controller_walsh,,,Month-end accrual,Weekend or holiday postings,1
+JE-01036,2025-03-17,2025-01-28,2025-01,Manual,1400,1010,5038.64,dlee,mgr_ortiz,,,Prepay annual contract,Posted after period close,1
+JE-00777,2025-02-27,2025-02-27,2025-02,Manual,4000,1010,4082.59,dlee,mgr_chen,,,Revenue adjustment,"Revenue debited, cash credited",1
+JE-02873,2025-07-28,2025-07-28,2025-07,AP,5400,2000,3219.2,SYSTEM,SYSTEM,Nimbus Cloud Hosting,INV-2773457A,Vendor invoice,Near-duplicate invoices,1
+JE-00634,2025-02-18,2025-02-18,2025-02,AP,5500,2000,2827.8,SYSTEM,SYSTEM,Pioneer Waste Removal,INV-2964486,Vendor invoice,Exact duplicate invoices,1
+JE-04268,2025-11-02,2025-10-31,2025-10,Manual,1400,1010,2583.82,bpatel,mgr_ortiz,,,Prepay annual contract,Weekend or holiday postings,1
+JE-01088,2025-03-20,2025-02-10,2025-02,Manual,5300,2100,2061.07,bpatel,controller_walsh,,,Month-end accrual,Posted after period close,1
+JE-04912,2025-12-17,2025-12-14,2025-12,Manual,1400,1010,1395.23,bpatel,bpatel,,,Prepay annual contract,Self-approved entries,1
+JE-00949,2025-03-11,2025-03-10,2025-03,Manual,5300,2100,1271.68,cmorales,cmorales,,,Month-end accrual,Self-approved entries,1
+JE-02114,2025-06-02,2025-06-02,2025-06,AP,5400,2000,1087.34,SYSTEM,SYSTEM,Vantage Analytics,INV-2096696,Vendor invoice,Exact duplicate invoices,1
+JE-02996,2025-08-06,2025-08-03,2025-08,Manual,1400,1010,843.76,cmorales,cmorales,,,Prepay annual contract,Self-approved entries,1
+JE-02228,2025-06-10,2025-04-02,2025-04,Manual,1400,1010,751.45,tnguyen,mgr_ortiz,,,Prepay annual contract,Posted after period close,1
+JE-01926,2025-05-19,2025-03-07,2025-03,Manual,5500,1400,724.92,rjones,mgr_chen,,,Amortize prepaid,Posted after period close,1
+JE-01637,2025-04-28,2025-04-27,2025-04,Manual,4000,1010,583.49,cmorales,mgr_ortiz,,,Revenue adjustment,"Revenue debited, cash credited",1
+JE-03465,2025-09-08,2025-06-24,2025-06,Manual,1400,1010,503.25,rjones,mgr_chen,,,Prepay annual contract,Posted after period close,1
+JE-00078,2025-01-07,2025-01-04,2025-01,Manual,4000,1010,454.41,rjones,mgr_chen,,,Revenue adjustment,"Revenue debited, cash credited",1
+JE-04327,2025-11-05,2025-11-04,2025-11,Manual,4000,1010,444.89,bpatel,mgr_ortiz,,,Revenue adjustment,"Revenue debited, cash credited",1
+JE-04946,2025-12-20,2025-12-19,2025-12,Manual,5300,2100,422.17,tnguyen,mgr_ortiz,,,Month-end accrual,Weekend or holiday postings,1
+JE-04011,2025-10-14,2025-10-14,2025-10,AP,5500,2000,317.05,SYSTEM,SYSTEM,Ironbridge Maintenance,INV-1558758,Vendor invoice,Exact duplicate invoices,1
+JE-01999,2025-05-23,2025-03-13,2025-03,Manual,1400,1010,309.85,bpatel,mgr_ortiz,,,Prepay annual contract,Posted after period close,1
+JE-01715,2025-05-03,2025-05-03,2025-05,Manual,5300,2100,304.34,rjones,mgr_chen,,,Month-end accrual,Weekend or holiday postings,1
+JE-00931,2025-03-10,2025-03-10,2025-03,AP,5400,2000,301.92,SYSTEM,SYSTEM,Monarch Furniture,INV-2650697,Vendor invoice,Exact duplicate invoices,1
+JE-00345,2025-01-28,2025-01-28,2025-01,AP,5300,2000,285.32,SYSTEM,SYSTEM,Vantage Analytics,INV-2085106A,Vendor invoice,Near-duplicate invoices,1
+JE-03489,2025-09-09,2025-09-09,2025-09,AP,5500,2000,192.41,SYSTEM,SYSTEM,Crestview Printing,INV-1726367,Vendor invoice,Exact duplicate invoices,1
+JE-01314,2025-04-04,2025-04-02,2025-04,Manual,1400,1010,160.08,cmorales,cmorales,,,Prepay annual contract,Self-approved entries,1
+JE-04851,2025-12-13,2025-12-12,2025-12,Manual,1400,1010,142.11,akim,mgr_chen,,,Prepay annual contract,Weekend or holiday postings,1
+JE-00423,2025-02-03,2025-02-03,2025-02,AP,5400,2000,131.24,SYSTEM,SYSTEM,Oakmont Audit Partners,INV-2845455,Vendor invoice,Exact duplicate invoices,1
+JE-02553,2025-07-07,2025-04-24,2025-04,Manual,5500,1400,122.32,dlee,controller_walsh,,,Amortize prepaid,Posted after period close,1
+JE-04012,2025-10-14,2025-08-21,2025-08,Manual,1400,1010,105.25,rjones,controller_walsh,,,Prepay annual contract,Posted after period close,1

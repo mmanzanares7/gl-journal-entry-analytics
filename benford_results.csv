@@ -1,0 +1,8 @@
+group,n,mad,chi_square,p_value,mad_reading,flag_at_5pct
+All entries,5096,0.0041,12.2,0.14,close conformity,False
+Manual entries: akim,173,0.0181,7.8,0.45,n/a (small sample),False
+Manual entries: bpatel,187,0.0204,8.4,0.4,n/a (small sample),False
+Manual entries: cmorales,185,0.0098,2.5,0.96,n/a (small sample),False
+Manual entries: dlee,183,0.0083,2.4,0.97,n/a (small sample),False
+Manual entries: rjones,170,0.0218,8.5,0.38,n/a (small sample),False
+Manual entries: tnguyen,180,0.0291,63.6,9.2e-11,n/a (small sample),True

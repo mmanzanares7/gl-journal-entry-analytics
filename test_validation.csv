@@ -1,0 +1,9 @@
+test,flagged,seeded,true_positives,false_positives,missed,precision,recall
+Exact duplicate invoices,12,12,12,0,0,1.0,1.0
+Near-duplicate invoices,6,6,6,0,0,1.0,1.0
+Round-dollar manual entries,25,25,25,0,0,1.0,1.0
+Weekend or holiday postings,15,15,15,0,0,1.0,1.0
+Just below approval limit,25,18,18,7,0,0.72,1.0
+Self-approved entries,8,8,8,0,0,1.0,1.0
+Posted after period close,10,10,10,0,0,1.0,1.0
+"Revenue debited, cash credited",7,7,7,0,0,1.0,1.0
